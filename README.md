@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nitishsaji2001@gmail.com**
 
-### Blogs posts
+<!---### Blogs posts--->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -35,5 +35,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nit-bit-git&show_icons=true&locale=en" alt="nit-bit-git" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nit-bit-git&" alt="nit-bit-git" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nit-bit-git&" alt="nit-bit-git" /></p>-->
 
